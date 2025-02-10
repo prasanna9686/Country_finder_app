@@ -4,8 +4,10 @@
 
  body { 
    font-family: "Arial", sans-serif; 
-   /* background: radial-gradient(circle , #ff7f50, #1e90ff);  */
-   background: linear-gradient(to right, #49a538, #5f5f5c);
+   /* background: linear-gradient(to right, #49a538, #5f5f5c); */
+   /* background-image: url("https://i.pinimg.com/736x/29/e1/a3/29e1a30475158611e19c2b9b6abed488.jpg"); */
+   background-image: url("https://i.pinimg.com/736x/02/bd/43/02bd4348ad7203cc368e7be5eab52b35.jpg");
+  background-size: cover;
   color: #ffffff;
   margin: 0; 
   display: flex;
@@ -15,7 +17,7 @@
 
  .App, .container { 
   background-color: #ffffff; 
-  background-color: lightsteelblue;
+  background-color: lightgray;
   color: #333333;
   border-radius: 16px; 
   padding: 0px 30px 30px 30px;
